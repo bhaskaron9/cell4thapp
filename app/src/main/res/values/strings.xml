@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">cell4th</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">K rakhne yta tira hau?</string>
+    <string name="action_settings">Exit</string>
+    <string name="title_login">Login</string>
+    <string name="title_compare">Compare Phones</string>
+    <string name="title_psyCHOder">Whats best for me?</string>
+    <string name="title_showspecs">Show Specs</string>
+    <string name="title_laptop">Laptops Arena</string>
+    <string name="title_latest">Latest @Market</string>
+    <string name="title_pplsay">People\'s Say</string>
+
+</resources>
